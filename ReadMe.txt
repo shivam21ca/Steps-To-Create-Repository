@@ -1,7 +1,7 @@
 Starting with POSTMAN + Github API
 Step1: Account on Github -> Settings -> Developer Settings -> Personal Access Tokens -> Generate New Token copy it
 
-Step 2: Download & Install Postman. Login with Google or anything and Open it.
+-- Step 2: Download & Install Postman. Login with Google or anything and Open it.
 
 Create a Workspace
 Create a Request
@@ -17,7 +17,8 @@ Update
 Choose the environment
 Create a new request
 Environment Setup is done.
-Step3: Now, Make a Request.
+
+-- Step3: Now, Make a Request.
 
 POSTarrow_down_small	https://api.github.com/user/repos
 POST means we are creating a new repo.	POST /user/repos
